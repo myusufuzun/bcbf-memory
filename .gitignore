@@ -1,0 +1,3 @@
+__pycache__/
+.pytest_cache/
+results/fig2_slice_cache.npz

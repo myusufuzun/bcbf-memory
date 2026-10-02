@@ -1,0 +1,10 @@
+one thread, times in ms, sample period 20 ms
+run            window   terminal constraints  rollout  rest  step (median, 99%, max)
+standard_T      0-20 s     1     1.2    0.5    1.7   3.4  24.5
+standard_1.5T   0-20 s     1     1.8    0.7    2.4   4.3   5.9
+standard_2T     0-20 s     1     2.4    0.8    3.1   5.5  11.6
+grown           0- 5 s     1     1.1    0.6    1.8   2.9   4.3
+grown           5-10 s  2384     1.2    0.8    2.0   3.8   5.0
+grown          10-15 s  4307     1.2    1.0    2.2   4.0   5.1
+grown          15-20 s  6230     1.2    1.1    2.3   5.3  17.0
+growth updates (s), median (range) over three runs: 5.9 (5.9-6.3), 4.6 (4.6-4.7), 4.8 (4.8-4.8)

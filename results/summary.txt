@@ -1,0 +1,9 @@
+standard_T     lowest z    8.641  final z   8.641  least h_1 0.0218  empty 0  departs 1000 steps, last at 19.98 s
+standard_1.5T  lowest z    5.045  final z   5.045  least h_1 0.0218  empty 0  departs 1000 steps, last at 19.98 s
+standard_2T    lowest z    0.000  final z   0.000  least h_1 0.0218  empty 0  departs 208 steps, last at 4.14 s
+grown          lowest z    0.160  final z   0.160  least h_1 0.0218  empty 0  departs 715 steps, last at 14.98 s
+operating set at rest reaches z = 8.641, S_0 alone
+operating set at rest reaches z = 5.335, after append at 5 s
+operating set at rest reaches z = 2.361, after append at 10 s
+operating set at rest reaches z = -0.488, after append at 15 s
+balls 6230, appends (t, balls) [[5.0, 2383.0], [10.0, 1923.0], [15.0, 1923.0]]
