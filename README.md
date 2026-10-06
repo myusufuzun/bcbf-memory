@@ -4,6 +4,8 @@ This repository contains the implementation of **Backup Control Barrier Function
 
 M. Yusuf Uzun and Ersin Daş
 
+Paper: [arXiv:2610.05381](https://arxiv.org/abs/2610.05381)
+
 ## Prerequisites
 
 - Python 3.10 or later
